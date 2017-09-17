@@ -147,8 +147,8 @@ server <- function(input, output) {
       else{
         col4 <- colorRampPalette(c("#7F0000","red","#FF7F00","yellow","#7FFF7F", 
                                    "cyan", "#007FFF", "blue","#00007F"))
-        corrplot(cor(values$df2),col=col4(10))        
-        
+        corrplot(cor(values$df2),col=col4(10))   
+
       }
       }
     }
