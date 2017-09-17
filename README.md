@@ -8,13 +8,13 @@ Introduction
 The course project comprises of two parts: a) A shiny app which accepts an input, perform computation and displays a reactive output. b) A presentation which serves as a documentation for the shiny app.
 
 The link for the shiny app is:
-https://biju.shinyapps.io/Stock_Profiles/
+https://biju.shinyapps.io/stock_profiles2/
 
 The link for the ui.R and server.R files is here: 
 https://github.com/BJRJ/Shiny-App--Stock-Profiles
 
 The link for the app documentation is here:
-http://rpubs.com/bijeshr/306254
+http://rpubs.com/bijeshr/308762
 
 About the Shiny App
 -------------
